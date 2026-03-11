@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f91a0d4d-6fde-4223-bd32-378afa70706d"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f91a0d4d-6fde-4223-bd32-378afa70706d"
+      }
+    },
+    "owner": "matheuspablo"
   }
 }
